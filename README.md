@@ -1,5 +1,3 @@
-# ARTI303-LAB04
-Lab 4-AI 
 # ARTI 303 — Lab 04, Task 2
 
 ## Queries and answers
